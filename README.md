@@ -5,10 +5,6 @@
 
 Hello World 
 
-Hello there 
-
-General Kenobi 
-
 ## Blog post 
 
 First line goes here.... [Continue reading](blog) 
