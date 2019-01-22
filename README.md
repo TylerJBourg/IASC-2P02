@@ -1,7 +1,7 @@
 # IASC-2P02 | Tyler Bourgeois
 ## About me 
 
-![](images/Wolf.jpg)
+![](images/wolf.jpg)
 
 Hello World 
 
