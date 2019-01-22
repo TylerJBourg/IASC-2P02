@@ -9,3 +9,5 @@ Hello there
 
 General Kenobi 
 
+## Blog post 
+[Continue reading](blog) 
