@@ -2,7 +2,7 @@
 
 ## About me 
 
-![](images/Wolf.jpg)
+![](Images/Wolf.jpg)
 
 Hello World 
 
