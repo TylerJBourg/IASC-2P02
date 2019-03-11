@@ -27,7 +27,7 @@ Figure 1
  ![](Images/Voyant%20tool2.png)   
 Figure 2
 
-
+ 
 
 Works cited: 
 Moretti, Franco. "GRAPHS, MAPS, TREES". Mat.Ucsb.Edu, 2003, https://www.mat.ucsb.edu/~g.legrady/academic/courses/09w259/Moretti_graphs.pdf. Accessed 9 Mar 2019. 
