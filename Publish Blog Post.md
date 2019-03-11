@@ -22,7 +22,7 @@ I do agree with one of idea Ramsey and Drucker’s ideas which is to have each d
  This text analysis was taken from Reading Machines by Stephen Ramsay; in every paragraph that mentioned Moretti and his studies (Figure 1). Looking at the analysis we can see that Ramsay heavily uses specific words in the paragraphs when he focuses on Moretti and his work; this is indicated by the size of the word.  The largest word is “interpretation” as when Ramsey speaks about Moretti and his work, he focuses on interpretation in the humanities. Ramsay disagrees with Moretti as he believes that “quantitative data are useful because they are independent of interpretation; then, that they are challenging because they often demand an interpretation that transcends the quantitative realm” (Ramsay, 5). Where as Moretti believes that quantitative data can be used and interpreted. If we compare the text of Figure 1 (Moretti only mentioned paragraphs in Reading Machines by Stephen Ramsay) and Figure 2 (full text of Reading Machines by Stephen Ramsay) Figure 1 focuses more on text and the interpretation of it, whereas Figure 2 focuses more on the analysis of text and how it can be studied.
 
 
-![]()
+![](Images/Voyant tool.png)
 
 
     
