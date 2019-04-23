@@ -5,6 +5,15 @@ Bio
 Currently I am a second-year student at Brock University majoring in Interactive Arts and Science. Within Interactive Arts and Science and digital humanities my specific areas of interest would be data visualisation, media archaeology, cultural studies. My existing projects are a reflection of my areas of interest because for my solo presentation I choose to speak on the Nintendo Virtual boy and what happened to the produce and why it failed and then compared and contrasted the virtual boy to Virtual Reality in 2019 which allowed me to explore my interest of media archaeology. In the future I would like to explore my interests of be data visualisation, media archaeology, cultural studies as I feel I have just dipped my toes into learning about the subjects and I am excited to see where they can lead in the future. 
 
 
+Featured project Solo presentation 
+
+
+Solo Research presentation: The Nintendo Virtual Boy 
+
+<img src="https://cdn.mos.cms.futurecdn.net/ebaabcd1406e888dd68ae9259b05edd3-1200-80.jpg">
+
+Introduce the work 
+For my Research project (Solo presentation) I choose to cover the Nintendo Virtual Boy and why the product ultimately failed, what has changed since its release, how technology and the markets have changed and what modern Virtual Reality is like compared to the Virtual Boy. Covering the Virtual boy allowed me to peer into how Data Visualisation works and how it has evolved through the years. I was able to view this though my research of the virtual boy as data and research on the topic was very scarce and limited. When compared to when I was researching Virtual Reality the contrast of content allowed me to view how data visualisation, media archaeology and cultural studies in the digital humanities have evolved over the years. In my research comparing the Nintendo Virtual Boy I was able to see how the virtual boy has actually been use as a framework for the base design of modern Virtual Reality. 
 
 
 
