@@ -8,7 +8,7 @@ Currently I am a second-year student at Brock University majoring in Interactive
 Featured project Solo presentation 
 
 
-Solo Research presentation: The Nintendo Virtual Boy 
+<Strong> Solo Research presentation: The Nintendo Virtual Boy </Strong>
 
 <img src="https://cdn.mos.cms.futurecdn.net/ebaabcd1406e888dd68ae9259b05edd3-1200-80.jpg">
 
