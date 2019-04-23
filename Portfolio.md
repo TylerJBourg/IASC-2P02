@@ -1,12 +1,18 @@
-# IASC-2P02 | Tyler Bourgeois
+# IASC-2P02 | Tyler Bourgeois Portfolio 
 
-## About me 
+Bio 
 
-![](Images/Wolf.jpg)
+Currently I am a second-year student at Brock University majoring in Interactive Arts and Science. Within Interactive Arts and Science and digital humanities my specific areas of interest would be data visualisation, media archaeology, cultural studies. My existing projects are a reflection of my areas of interest because for my solo presentation I choose to speak on the Nintendo Virtual boy and what happened to the produce and why it failed and then compared and contrasted the virtual boy to Virtual Reality in 2019 which allowed me to explore my interest of media archaeology. In the future I would like to explore my interests of be data visualisation, media archaeology, cultural studies as I feel I have just dipped my toes into learning about the subjects and I am excited to see where they can lead in the future. 
 
-Hello World 
 
-## Blog post 
+
+
+
+
+
+
+
+Academic Blog Post 
 
 Prompt: 
 Ramsay and Drucker's critique of Moretti should be taken to heart by digital humanists: any reliance on externally-produced data sets should be abolished in the field. Instead, each digital humanist will show the interpretive methods used to produce their unique data sets, and no two scholars will ever use the same data to conduct their research. Doing so will allow digital scholarship to fully embrace its humanities background, foregrounding subjective experience above all else. Established datasets are for scientists, and they have no place in humanities research. All data should be interpretively created
