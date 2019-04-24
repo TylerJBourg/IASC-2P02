@@ -27,7 +27,7 @@ here
 
 <a href="https://docs.google.com/presentation/d/1K_w0ljlTMxzwfYLaGKy1qS0yovBPPB5DO-beAu8LsIs/edit?usp=sharing" alt="Collaborative Project"> Collaborative Project 
 
-<a href="file:///C:/Users/bourg/Documents/School/2P02/Modernist%20Journals%20Project%20-%20Google%201890-1920.html " alt="1890">Here
+<img src="file:///C:/Users/bourg/Documents/School/2P02/Modernist%20Journals%20Project%20-%20Google%201890-1920.html" alt="1890">Here
 
 <h3> Academic Blog Post </h3>  
 
