@@ -15,7 +15,7 @@ For my Research project (Solo presentation) I choose to cover the Nintendo Virtu
 
 
 
-<a href="https://tylerjbourg.github.io/IASC-2P02/Solo.html" alt="Research Presentation"></a href>
+<a href="https://tylerjbourg.github.io/IASC-2P02/Solo.html" alt="Research Presentation"></Research Presentation>
 
 
 
