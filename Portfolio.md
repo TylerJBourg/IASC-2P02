@@ -17,6 +17,10 @@ For my Research project (Solo presentation) I choose to cover the Nintendo Virtu
 
 <a href="https://tylerjbourg.github.io/IASC-2P02/Solo.html" alt="Research Presentation"> Research Presentation
 
+<h3> Collaborative Project </h3> 
+
+For my collaborative project I was in a group of four people myself Nicole Morgan, Donna Phelps, Yiren Zhang and we focused on the Modern Journals Project. The Modern Journal Project is a major online resource for the study of modernism in the English-speaking world, with periodical literature as its central concern. Our group was able to use the Modern Journal Project to create graphs and compare works published in the United states and Great Britain before 1890, then after 1890, from 1891-1910 and works from 1911-1922. 
+
 
 
 <h3> Academic Blog Post </h3>  
