@@ -13,7 +13,8 @@ Currently I am a second-year student at Brock University majoring in Interactive
 Introduce the work 
 For my Research project (Solo presentation) I choose to cover the Nintendo Virtual Boy and why the product ultimately failed, what has changed since its release, how technology and the markets have changed and what modern Virtual Reality is like compared to the Virtual Boy. Covering the Virtual boy allowed me to peer into how Data Visualisation works and how it has evolved through the years. I was able to view this though my research of the virtual boy as data and research on the topic was very scarce and limited. When compared to when I was researching Virtual Reality the contrast of content allowed me to view how data visualisation, media archaeology and cultural studies in the digital humanities have evolved over the years. In my research comparing the Nintendo Virtual Boy I was able to see how the virtual boy has actually been use as a framework for the base design of modern Virtual Reality. 
 
-
+How it evolved over time 
+So from my initial submission I realized that my slides had too much text and did not follow the pecha kucha format so I removed the text but kept the title and added images if need be on slides as this would allow the audience to know the topic of what I am talking about with visuals to keep the viewers attention.  
 
 <a href="https://tylerjbourg.github.io/IASC-2P02/Solo.html" alt="Research Presentation"> Research Presentation
 
@@ -21,13 +22,9 @@ For my Research project (Solo presentation) I choose to cover the Nintendo Virtu
 
 For my collaborative project I was in a group of four people myself Nicole Morgan, Donna Phelps, Yiren Zhang and we focused on the Modern Journals Project. The Modern Journal Project is a major online resource for the study of modernism in the English-speaking world, with periodical literature as its central concern. Our group was able to use the Modern Journal Project to create graphs and compare works published in the United states and Great Britain before 1890, then after 1890, from 1891-1910 and works from 1911-1922. 
 
-For the collaborative project me and the group decided to evenly distribute the project amount the four of us with each of us taking care of a specific task. My task for the group project was to take all the data and information that Donna had collected and put it into graphs so that it would be easier to compare where English works were published around the globe. Which can be seen 
-<a href="file:///C:/Users/bourg/Documents/School/2P02/Modernist%20Journals%20Project%20-%20Google%201890-1920.html" alt="1890-1920">
-here 
+For the collaborative project me and the group decided to evenly distribute the project amount the four of us with each of us taking care of a specific task. My task for the group project was to take all the data and information that Donna had collected and put it into graphs so that it would be easier to compare where English works were published around the globe. Which can be seen in the collaborative project on pages eight to ten. Working with my group like this I feel allowed me and my group to comfortably and reliably achieve our end goal by splitting up the work load amongst us. Also, as a group we worked collectively in a google doc so that all other group members could review each others work and making sure each member was completing their part on time. 
 
 <a href="https://docs.google.com/presentation/d/1K_w0ljlTMxzwfYLaGKy1qS0yovBPPB5DO-beAu8LsIs/edit?usp=sharing" alt="Collaborative Project"> Collaborative Project 
-
-<img src="file:///C:/Users/bourg/Documents/School/2P02/Modernist%20Journals%20Project%20-%20Google%201890-1920.html" alt="1890">
 
 <h3> Academic Blog Post </h3>  
 
