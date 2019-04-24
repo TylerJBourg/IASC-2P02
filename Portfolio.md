@@ -21,7 +21,7 @@ For my Research project (Solo presentation) I choose to cover the Nintendo Virtu
 
 For my collaborative project I was in a group of four people myself Nicole Morgan, Donna Phelps, Yiren Zhang and we focused on the Modern Journals Project. The Modern Journal Project is a major online resource for the study of modernism in the English-speaking world, with periodical literature as its central concern. Our group was able to use the Modern Journal Project to create graphs and compare works published in the United states and Great Britain before 1890, then after 1890, from 1891-1910 and works from 1911-1922. 
 
-
+<a href="https://docs.google.com/presentation/d/1K_w0ljlTMxzwfYLaGKy1qS0yovBPPB5DO-beAu8LsIs/edit?usp=sharing">
 
 <h3> Academic Blog Post </h3>  
 
